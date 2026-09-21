@@ -19,6 +19,7 @@
 .shell .quick button.active{background:var(--indsil-sky);color:var(--indsil-deep)}
 .shell .badge.on{background:#eaf3fb;color:var(--indsil-deep)}
 .shell .summary-list>div:first-child b{color:var(--indsil-deep)}
+.chart-wrap{width:100%;min-height:280px}
 @media(max-width:650px){.company-heading{align-items:flex-start;gap:12px}.company-heading img{width:112px;margin-top:3px}.company-heading h1{font-size:21px}}
 
 /* Full-width dashboard layout (navigation sidebar removed). */
